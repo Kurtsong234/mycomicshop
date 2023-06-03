@@ -1,0 +1,115 @@
+html {
+  font-size: 16px;
+}
+
+body * {
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+
+.box-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.box-flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.box-justify-start {
+  justify-content: flex-start;
+}
+
+.box-justify-end {
+  justify-content: flex-end;
+}
+
+.box-justify-center {
+  justify-content: center;
+}
+
+.box-justify-between {
+  justify-content: space-between;
+}
+
+.box-justify-around {
+  justify-content: space-around;
+}
+
+.box-justify-evenly {
+  justify-content: space-evenly;
+}
+
+.box-items-start {
+  align-items: flex-start;
+}
+
+.box-items-end {
+  align-items: flex-end;
+}
+
+.box-items-center {
+  align-items: center;
+}
+
+.box-items-baseline {
+  align-items: baseline;
+}
+
+.box-items-stretch {
+  align-items: stretch;
+}
+
+.box-self-start {
+  align-self: flex-start;
+}
+
+.box-self-end {
+  align-self: flex-end;
+}
+
+.box-self-center {
+  align-self: center;
+}
+
+.box-self-baseline {
+  align-self: baseline;
+}
+
+.box-self-stretch {
+  align-self: stretch;
+}
+
+.box-flex-1 {
+  flex: 1 1 0%;
+}
+
+.box-flex-auto {
+  flex: 1 1 auto;
+}
+
+.box-grow {
+  flex-grow: 1;
+}
+
+.box-grow-0 {
+  flex-grow: 0;
+}
+
+.box-shrink {
+  flex-shrink: 1;
+}
+
+.box-shrink-0 {
+  flex-shrink: 0;
+}
+
+.box-relative {
+  position: relative;
+}
+input{
+	background-color: #f3f3f3;
+	color: #000;
+}
+/*common setting about layout of the page
