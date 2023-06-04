@@ -11,6 +11,7 @@
   overflow: hidden;
   height: 5vw;
 }
+/*setting for first section*/
 .text {
   margin-top: 1vw;
   color: #000000;
@@ -90,6 +91,7 @@
 .space-y-75 > *:not(:first-child) {
   margin-top: 6vw;
 }
+/*setting after first section*/
 .group_3 {
   padding-left: 3vw;
   padding-right: 2vw;
@@ -104,6 +106,7 @@
   margin-left: 0.5vw;
   line-height: 1vw;
 }
+/*placement of small content*/
 .text_7 {
   color: #888888;
   line-height: 1vw;
@@ -131,6 +134,7 @@
   width: 22vw;
   height: 33.5vw;
 }
+/*size of main image*/
 .section {
   margin-top: 0.5vw;
   padding: 0 2.5vw 4vw 6.5vw;
@@ -145,6 +149,7 @@
 .space-y-26 > *:not(:first-child) {
   margin-top: 2vw;
 }
+/*setting of right hand side box*/
 .group_6 {
   padding: 0 1vw;
 }
@@ -209,6 +214,7 @@
 .space-y-30 > *:not(:first-child) {
   margin-top: 2.5vw;
 }
+/*setting of description*/
 .text-wrapper {
   padding: 2vw 0;
   background-color: #aed43f;
@@ -246,6 +252,7 @@
   padding: 1.5vw 2vw 2vw 4vw;
   background-color: #ffffff;
 }
+/*background setting for "people also bought"*/
 .image_10 {
   width: 13.5vw;
   height: 14vw;
@@ -302,6 +309,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*setting of footer*/
 .space-x-26 > *:not(:first-child) {
   margin-left: 2vw;
 }
