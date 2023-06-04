@@ -80,6 +80,7 @@
   padding-left: 3vw;
   padding-right: 2vw;
 }
+/*give search result number a place*/
 .space-y-9 > *:not(:first-child) {
   margin-top: 1vw;
 }
@@ -140,6 +141,7 @@
   background-color: #aed43f;
   height: 47vw;
 }
+/*size and color of filter*/
 .font_6 {
   font-size: 2vw;
   font-family: Inter;
@@ -289,6 +291,7 @@
   overflow: hidden;
   height: 54vw;
 }
+/*set the background for search results*/
 .space-y-62 > *:not(:first-child) {
   margin-top: 2vw;
 }
@@ -441,6 +444,7 @@
 .group_15 {
   padding: 0 14.5vw;
 }
+/*setting for page numbers*/
 .image_16 {
   width: 3.5vw;
   height: 3.5vw;
@@ -477,6 +481,7 @@
 .space-y-16 > *:not(:first-child) {
   margin-top: 1.25vw;
 }
+/*setting for the placement of "You Might Also Like"*/
 .text_26 {
   font-weight: 700;
   line-height: 2.5vw;
@@ -532,6 +537,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*setting of footer*/
 .space-x-26 > *:not(:first-child) {
   margin-left: 2vw;
 }
