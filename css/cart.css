@@ -10,6 +10,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*setting of first section*/
 .font_2 {
   font-size: 2vw;
   font-family: Inter;
@@ -118,6 +119,7 @@
 .group_3 {
   padding: 2vw 2.5vw 0;
 }
+/*placement of process*/
 .group_4 {
   padding: 0 18vw;
 }
@@ -166,6 +168,7 @@
   background-color: #ffffff;
   height: 33vw;
 }
+/*setting of color and size of cart box*/
 .group_5 {
   padding: 1.5vw 0.2vw 0.3vw;
 }
@@ -220,6 +223,7 @@
 .group_6 {
   margin-right: 3vw;
 }
+/*placement of quantity*/
 .group_7 {
   width: 7vw;
 }
@@ -302,6 +306,7 @@
 .group_16 {
   padding: 0.3vw 0;
 }
+/*new line in cart box*/
 .space-x-44 > *:not(:first-child) {
   margin-left: 8.5vw;
 }
@@ -347,6 +352,7 @@
   background-color: #ffffff;
   height: 32vw;
 }
+/*setting for order box*/
 .group_11 {
   margin-top: 2vw;
 }
@@ -394,6 +400,7 @@
 .group_19 {
   margin-top: 3vw;
 }
+/*placement for total price*/
 .group_20 {
   padding: 0 2vw 1.25vw;
 }
@@ -430,6 +437,7 @@
 .space-y-51 > *:not(template) {
   margin-top: 4vw;
 }
+
 .group_22 {
   padding: 0 2.5vw;
 }
@@ -444,6 +452,7 @@
   padding: 1.3vw 2vw 2vw 3.75vw;
   background-color: #ffffff;
 }
+/*background for "your saved books"*/
 .image_13 {
   width: 14vw;
   height: 14vw;
@@ -512,6 +521,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*setting of footer*/
 .space-x-26 > *:not(:first-child) {
   margin-left: 7vw;
 }
