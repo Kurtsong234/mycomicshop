@@ -10,6 +10,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*set size of first section*/
 .space-x-34 > *:not(:first-child) {
   margin-left: 2.5vw;
 }
@@ -115,6 +116,7 @@
   background-color: #aed43fcc;
   border-radius: 2vw;
 }
+/*set notification size and color*/
 .image_5 {
   width: 1.25vw;
   height: 1.5vw;
@@ -152,6 +154,7 @@
   width: 14vw;
   height: 14vw;
 }
+/*set size, color of company*/
 .text_10 {
   line-height: 2vw;
 }
@@ -222,6 +225,7 @@
   padding: 0.625vw 4vw 10vw;
   border-radius: 5vw;
 }
+/*set the size of "This week's Feature"*/
 .space-y-38 > *:not(:first-child) {
   margin-top: 3vw;
 }
@@ -292,6 +296,7 @@
   top: 0;
   transform: translateX(-50%);
 }
+/*setting for picture in "Best Selling Titles"*/
 .group_7 {
   margin-right: 0.156vw;
 }
@@ -369,6 +374,7 @@
 .space-y-18 > *:not(:first-child) {
   margin-top: 1.5vw;
 }
+/*setting for "Best Selling Titles"*/
 .text_18 {
   margin-left: 2.5vw;
   line-height: 3vw;
@@ -440,6 +446,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*setting for footer*/
 .space-x-26 > *:not(:first-child) {
   margin-left: 2vw;
 }
