@@ -10,6 +10,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*first section*/
 .font_1 {
   font-size: 2vw;
   font-family: Inter;
@@ -85,6 +86,7 @@
 .group_2 {
   margin-top: 1.6vw;
 }
+/*placement of checkout process*/
 .image_5 {
   width: 2.6vw;
   height: 3.6vw;
@@ -146,6 +148,7 @@
   padding: 1vw 6vw 1vw 6.25vw;
   background-color: #ffffff;
 }
+/*setting of order confirmation*/
 .space-y-8 > *:not(:first-child) {
   margin-top: 0.6vw;
 }
@@ -176,6 +179,7 @@
   padding: 2vw 0.3vw 9vw;
   background-color: #ffffff;
 }
+/*larger box on left*/
 .text_15 {
   line-height: 1.8vw;
 }
@@ -215,11 +219,13 @@
   margin-left: 2vw;
   color: #888888;
 }
+/*setting of ordernumber*/
 .section_5 {
   margin-right: 1.563vw;
   padding: 4vw 5.9vw 11vw 8vw;
   background-color: #ffffff;
 }
+/*setting of right box*/
 .space-y-14 > *:not(:first-child) {
   margin-top: 1vw;
 }
@@ -260,6 +266,7 @@
   background-color: #aed43f;
   overflow: hidden;
 }
+/*setting of footer*/
 .space-x-26 > *:not(:first-child) {
   margin-left: 2vw;
 }
