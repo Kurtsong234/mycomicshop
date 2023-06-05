@@ -80,31 +80,31 @@
   padding: 1.5vw 0 2vw;
   flex: 1 1 31vw;
   height: 5.5vw;
-  border: solid 0.0781vw #000000;
+  border: solid 0.1vw #000000;
 }
 .text_5 {
   margin-left: 1.875vw;
 }
 .space-y-29 > *:not(:first-child) {
-  margin-top: 2.266vw;
+  margin-top: 2.5vw;
 }
 .text-wrapper_4 {
-  padding: 1.406vw 0 2.031vw;
-  border: solid 0.0781vw #000000;
+  padding: 1.5vw 0 2vw;
+  border: solid 0.1vw #000000;
 }
 .text_10 {
   margin-left: 1.25vw;
 }
 .text-wrapper_6 {
-  padding: 1.563vw 0 1.719vw;
-  width: 16.875vw;
-  height: 5.547vw;
-  border: solid 0.0781vw #000000;
+  padding: 1.5vw 0 2vw;
+  width: 15vw;
+  height: 5.5vw;
+  border: solid 0.1vw #000000;
 }
 .text-wrapper_7 {
-  padding: 1.563vw 0 1.25vw;
-  width: 19.297vw;
-  height: 5.547vw;
+  padding: 1.5vw 0 1.25vw;
+  width: 20vw;
+  height: 5.5vw;
   border: solid 0.01vw #000000;
 }
 .text_13 {
@@ -222,8 +222,8 @@
   font-family: Inter;
 }
 .text_11 {
+  padding-top: 1.5vw;
   color: #888888;
-  line-height: -1vw;
 }
 .equal-division-item_2 {
   padding: 1vw 0 0.5vw 0.8vw;
@@ -236,16 +236,18 @@
   margin-top: 3.5vw;
 }
 .text-wrapper_5 {
-  margin-top: 3.5vw;
+  margin-top: 4vw;
   padding: 1.7vw 0 1.5vw;
   background-color: #aed43f;
   border-radius: 4vw;
   width: 10vw;
+  height: 4vw;
   margin-right: -1vw;
 }
+/*wrapper for apply*/
 .text_12 {
   color: #ffffff;
-  line-height: 1.5vw;
+  line-height: 0.7vw;
 }
 .group_7 {
   margin-top: 3vw;
