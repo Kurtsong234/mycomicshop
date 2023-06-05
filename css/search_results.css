@@ -6,7 +6,7 @@
   height: 100%;
 }
 .section {
-  padding: 0vw 2vw 0.9vw 3vw;
+  padding: 1vw 2vw 0.9vw 3vw;
   background-color: #aed43f;
   overflow: hidden;
 }
@@ -218,6 +218,7 @@
   height: 0.5vw;
 }
 .section_10 {
+  margin-left: -0.5vw;
   background-color: #d9d9d9;
   border-radius: 50%;
   width: 0.5vw;
@@ -225,7 +226,7 @@
   border: solid 0.1vw #000000;
 }
 .view {
-  margin-top: -0.5vw;
+  margin-top: -0.8vw;
 }
 .divider {
   background-color: #000000;
