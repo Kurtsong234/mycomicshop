@@ -12,15 +12,16 @@
 }
 /*setting of first section*/
 .font_2 {
-  font-size: 2vw;
+  font-size: 2.5vw;
   font-family: Inter;
   line-height: 2vw;
   font-weight: 700;
   color: #000000;
 }
 .text_2 {
-  margin-top: 2vw;
   line-height: 2vw;
+  font-weight: unset;
+  padding-top: 1vw;
 }
 .group_2 {
   margin-left: 2vw;
@@ -390,12 +391,13 @@
   padding: 1.8vw 0 1.5vw;
   background-color: #aed43f;
   border-radius: 4vw;
-  width: 10vw;
+  width: 10.5vw;
   height: 4vw;
 }
+/*color and placement for apply*/
 .text_20 {
   color: #ffffff;
-  line-height: 1vw;
+  line-height: 0.5vw;
 }
 .group_19 {
   margin-top: 3vw;
